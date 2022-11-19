@@ -1,0 +1,38 @@
+{
+  "name": "goit-js-hw-11",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./src/index.html",
+  "targets": {
+    "default": {
+      "distDir": "./dist",
+      "publicUrl": "/goit-js-hw-11/"
+    }
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanuhaD/goit-js-hw-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanuhaD/goit-js-hw-11/issues"
+  },
+  "homepage": "https://github.com/TanuhaD/goit-js-hw-11#readme",
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "parcel": "^2.8.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "axios": "^1.1.3",
+    "notiflix": "^3.2.5",
+    "parcel-transformer-hbs": "^1.0.3",
+    "simplelightbox": "^2.10.4"
+  }
+}
