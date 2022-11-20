@@ -14,8 +14,9 @@ const fetchPixabay = axios.create({
   baseURL: BASE_URL,
 });
 
-export function fetchPictures(q, page) {
-  return fetchPixabay
-    .get("", { params: { ...PARAMS, q, page } })
-    .then(({ data }) => data);
+export async function fetchPictures(q, page) {
+  const { data } = await fetchPixabay.get("", {
+    params: { ...PARAMS, q, page },
+  });
+  return data;
 }

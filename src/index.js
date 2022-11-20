@@ -17,26 +17,28 @@ const lightbox = new SimpleLightbox(".gallery a", {
   navText: ["←", "→"],
 });
 
-function handleFormSubmit(event) {
+async function handleFormSubmit(event) {
   event.preventDefault();
   buttonShowMore.classList.add("is-hidden");
   page = 1;
   query = event.target.elements.searchQuery.value.trim();
-  fetchPictures(query, page).then((pixabayResponse) => {
-    Notify.info(`Hooray! We found ${pixabayResponse.totalHits} images`);
-    console.log(pixabayResponse);
-    galleryElem.innerHTML = "";
-    if (pixabayResponse.hits.length === 0) {
-      Notify.failure(
-        "Sorry, there are no images matching your search query. Please try again."
-      );
-      return;
-    }
-    renderPhotoGallery(pixabayResponse.hits);
-    lightbox.refresh();
-    totalPages = Math.ceil(pixabayResponse.totalHits / PER_PAGE);
-    if (totalPages > 1) buttonShowMore.classList.remove("is-hidden");
-  });
+  if (query === "") {
+    return;
+  }
+  const pixabayResponse = await fetchPictures(query, page);
+  Notify.info(`Hooray! We found ${pixabayResponse.totalHits} images`);
+  console.log(pixabayResponse);
+  galleryElem.innerHTML = "";
+  if (pixabayResponse.hits.length === 0) {
+    Notify.failure(
+      "Sorry, there are no images matching your search query. Please try again."
+    );
+    return;
+  }
+  renderPhotoGallery(pixabayResponse.hits);
+  lightbox.refresh();
+  totalPages = Math.ceil(pixabayResponse.totalHits / PER_PAGE);
+  if (totalPages > 1) buttonShowMore.classList.remove("is-hidden");
 }
 
 function renderPhotoGallery(galleryPhotos) {
@@ -44,21 +46,20 @@ function renderPhotoGallery(galleryPhotos) {
   galleryElem.insertAdjacentHTML("beforeend", markup);
 }
 
-function handleBtnClick() {
+async function handleBtnClick() {
   page += 1;
-  fetchPictures(query, page).then((pixabayResponse) => {
-    renderPhotoGallery(pixabayResponse.hits);
-    lightbox.refresh();
-    const viewPortHeight = document.documentElement.clientHeight;
-    window.scrollBy({
-      top: viewPortHeight,
-      behavior: "smooth",
-    });
-    if (page === totalPages) {
-      buttonShowMore.classList.add("is-hidden");
-      Notify.info("We're sorry, but you've reached the end of search results.");
-    }
+  const pixabayResponse = await fetchPictures(query, page);
+  renderPhotoGallery(pixabayResponse.hits);
+  lightbox.refresh();
+  const viewPortHeight = document.documentElement.clientHeight;
+  window.scrollBy({
+    top: viewPortHeight,
+    behavior: "smooth",
   });
+  if (page === totalPages) {
+    buttonShowMore.classList.add("is-hidden");
+    Notify.info("We're sorry, but you've reached the end of search results.");
+  }
 }
 
 formElem.addEventListener("submit", handleFormSubmit);
