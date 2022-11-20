@@ -1,4 +1,4 @@
-8602
+8601
 80C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\yaml\dist\test-events.js133132400892763904 0
 107C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\HTMLMetaElement.js133133360216303808 0
 78C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\browser-process-hrtime133133360172241364 1
@@ -39,7 +39,7 @@
 97C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\postcss-normalize-whitespace\src\index.js133133360202725016 0
 46C:\Users\HP\Documents\GitHub\goit-js-hw-11\src133133362622455122 1
 85C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\removeViewBox.js133132400894408787 0
-58C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\js\fetch.js133133429821346198 0
+58C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\js\fetch.js133133433957654866 0
 67C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\yaml\map.js133132400889781685 0
 72C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\invert.js133133360226740178 0
 73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\form-data\License133132409276622188 0
@@ -66,21 +66,13 @@
 70C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\wrap.js133133360234827036 0
 61C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uncss133133360182716601 1
 87C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\utils\test\input\config133132400895850346 1
-47C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist133133426580312338 1
+47C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist133133638215604351 1
 123C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\guards.js133133360273711597 0
-47C:\Users\HP\Documents\GitHub\goit-js-hw-11\temp133133423399376078 1
+47C:\Users\HP\Documents\GitHub\goit-js-hw-11\temp133133642563400312 1
+113C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__133133360273140239 1
+73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\parse5\lib\parser133133360187261989 1
 60C:\Users\HP\Documents\GitHub\goit-js-hw-11\package-lock.json133133361481059757 0
 74C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\defaults.js133133360224053535 0
-73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\parse5\lib\parser133133360187261989 1
-113C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__133133360273140239 1
-77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\fp\overArgs.js133133360230367482 0
-73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uuid\package.json133133360180101446 0
-77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\_baseSortBy.js133133360216750028 0
-82C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\intersectionWith.js133133360226720201 0
-72C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\error-ex\LICENSE133132400886157650 0
-89C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\whatwg-url\lib\URLSearchParams.js133133360179460578 0
-90C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\handlebars\dist\cjs\precompiler.js133133361478164122 0
-61C:\Users\HP\Documents\GitHub\goit-js-hw-11\temp\response.json133133423403093343 0
 75C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\request\lib\auth.js133133360178684175 0
 90C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\lib\serializerCore.js133132400896985651 0
 121C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\node.js133133360273020111 0
@@ -106,10 +98,10 @@
 94C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\IdSelector.js133132400894228788 0
 101C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133132400887940327 0
 75C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\terser\bin\uglifyjs133132400886887640 0
-57C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\index.html133133388181692571 0
+57C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\index.html133133439929447692 0
 73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\colord\parse.d.ts133133360207065025 0
 68C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\hash133132400893556139 1
-55C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\index.js133133432526254186 0
+55C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\index.js133133556473083836 0
 104C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\insertadjacenthtml.js133132400901386949 0
 88C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\relateurl\lib\parse\urlstring.js133133360186208114 0
 77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\posthtml\package.json133132400886876139 0
@@ -157,7 +149,7 @@
 101C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-containment.js133132400896835648 0
 102C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\postcss-merge-longhand\src\lib\decl\columns.js133133360206582445 0
 66C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\pn\path.js133133360185827056 0
-59C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\js\params.js133133429129782093 0
+59C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\js\params.js133133469461973445 0
 102C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-text-spacing.js133132400898587611 0
 82C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\color-convert\CHANGELOG.md133132400884746976 0
 66C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\source-map133132400890317176 1
@@ -174,7 +166,7 @@
 71C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uuid\lib\rng.js133133360178427924 0
 73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@msgpackr-extract133133361480190601 1
 87C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\cosmiconfig\dist\index.d.ts.map133132400891163321 0
-69C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\hbsTemplates\image.hbs133133372828485032 0
+69C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\hbsTemplates\image.hbs133133565081256659 0
 82C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\postcss-colormin\README.md133133360205181532 0
 90C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\htmlnano\lib\modules\minifyUrls.js133132400890964310 0
 72C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\parse5\lib\utils133133360191523018 1
@@ -187,7 +179,7 @@
 72C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\sshpk\lib\key.js133133360180081450 0
 90C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\utility-types\dist\mapped-types.js133132400887348475 0
 91C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\fast-json-stable-stringify\index.js133133360174063905 0
-61C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\css\styles.css133133388676864499 0
+61C:\Users\HP\Documents\GitHub\goit-js-hw-11\src\css\styles.css133133638215171030 0
 60C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\.bin133133361480125207 1
 69C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\cssnano-utils133133360206552448 1
 71C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\.bin\terser.ps1133132400908080527 0
@@ -595,9 +587,9 @@
 66C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uuid\v5.js133133360179905059 0
 68C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\domexception133133360178947895 1
 64C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\pn\v8.js133133360192332154 0
-79C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uuid\lib\bytesToUuid.js133133360175468541 0
 107C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\postcss-normalize-display-values\types\lib\map.d.ts133133360204531537 0
 86C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\w3c-hr-time\lib\performance.js133133360179613882 0
+79C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uuid\lib\bytesToUuid.js133133360175468541 0
 66C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\domhandler133132400888236099 1
 100C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\purgecss\node_modules\commander\lib\error.js133133360838578219 0
 78C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\qs\.github\FUNDING.yml133133360182406493 0
@@ -1767,6 +1759,12 @@
 84C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\whatwg-url\lib\urlencoded.js133133360178868062 0
 88C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\css-tree\lib\generator\create.js133132400891163321 0
 94C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\whatwg-url\lib\URLSearchParams-impl.js133133360179097507 0
+77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\fp\overArgs.js133133360230367482 0
+73C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\uuid\package.json133133360180101446 0
+77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\_baseSortBy.js133133360216750028 0
+82C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\intersectionWith.js133133360226720201 0
+72C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\error-ex\LICENSE133132400886157650 0
+89C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\whatwg-url\lib\URLSearchParams.js133133360179460578 0
 80C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\fp\flatMapDeep.js133133360225802728 0
 102C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133132400889751702 0
 97C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\text-stroke.js133132400905492517 0
@@ -2557,12 +2555,12 @@
 77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\ajv\scripts\bundle.js133133360185414739 0
 80C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\terser\tools\terser.d.ts133132400894678777 0
 119C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\parse5\lib\extensions\location-info\open-element-stack-mixin.js133133360181453797 0
+143C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a\index.js133132400892826110 0
+84C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\_collections.js133132400887398478 0
 103C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133132400898077600 0
 93C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\terser\node_modules\commander\LICENSE133132400884334424 0
 90C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\cssstyle\lib\allExtraProperties.js133133360179774572 0
 105C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133132400896515649 0
-143C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\a\index.js133132400892826110 0
-84C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\svgo\plugins\_collections.js133132400887398478 0
 98C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\terser\node_modules\commander\package.json133132400886435354 0
 147C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo133132400896075654 1
 77C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\lodash\_nativeKeys.js133133360220751988 0
@@ -5813,7 +5811,7 @@
 93C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src\_sliced_to_array.mjs133132400897035637 0
 102C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\EndingType.js133133360211134984 0
 102C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\ErrorEvent.js133133360211407358 0
-69C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js.map133133426580302334 0
+69C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js.map133133565081767799 0
 97C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\Event.js133133360211902014 0
 101C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\EventInit.js133133360212132844 0
 79C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\diagnostic\test133132400887218455 1
@@ -6273,6 +6271,7 @@
 89C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\handlebars\dist\cjs\handlebars.js133133361474696014 0
 97C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\handlebars\dist\cjs\handlebars.runtime.js133133361474956026 0
 95C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\mpeg-dash.js133132400902727637 0
+90C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\handlebars\dist\cjs\precompiler.js133133361478164122 0
 94C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\handlebars\dist\cjs\handlebars\base.js133133361473878366 0
 84C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\csso\lib\clean\WhiteSpace.js133132400893646057 0
 95C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\handlebars\dist\cjs\handlebars\compiler133133361479516962 1
@@ -8297,7 +8296,7 @@
 92C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\diagnostic\lib\diagnostic.js133132400885905775 0
 72C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\src133132400898107588 1
 92C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\test\AssetGraph.test.js133132400891303298 0
-58C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.html133133390222808401 0
+58C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.html133133556090534916 0
 93C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\test\BundleGraph.test.js133132400893016064 0
 94C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\test\EntryRequest.test.js133132400894578782 0
 93C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@parcel\core\test\Environment.test.js133132400894818819 0
@@ -8446,7 +8445,7 @@
 91C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133132400892220689 0
 89C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@lmdb\lmdb-win32-x64\package.json133132400884606987 0
 86C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@lmdb\lmdb-win32-x64\README.md133132400886035789 0
-70C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css.map133133405664371110 0
+70C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css.map133133638215588505 0
 69C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@lezer\common133132400888136060 1
 65C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@lezer\lr133132400888036091 1
 70C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\@lezer\lr\dist133132400889461669 1
@@ -8599,5 +8598,5 @@
 69C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\.bin\uuid.cmd133133360344443374 0
 69C:\Users\HP\Documents\GitHub\goit-js-hw-11\node_modules\.bin\uuid.ps1133133360344443374 0
 77C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\goit-js-hw-11.59712999.js.map133132402605280244 0
-66C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css133133405664310352 0
-65C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js133133426580272340 0
+66C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.77a9bc14.css133133638215552744 0
+65C:\Users\HP\Documents\GitHub\goit-js-hw-11\dist\index.975ef6c8.js133133565081737820 0
