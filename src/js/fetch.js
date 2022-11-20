@@ -1,8 +1,10 @@
 import axios from "axios";
 import { PER_PAGE } from "./params.js";
+import * as dotenv from "dotenv";
+dotenv.config();
 const BASE_URL = "https://pixabay.com/api/";
 const PARAMS = {
-  key: "31327599-116df7529d1e96ddae5bcbe74",
+  key: process.env.PIXABAY_KEY,
   image_type: "photo",
   orientation: "horizontal",
   safesearch: true,
