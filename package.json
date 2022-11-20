@@ -26,6 +26,7 @@
   "homepage": "https://github.com/TanuhaD/goit-js-hw-11#readme",
   "devDependencies": {
     "buffer": "^5.7.1",
+    "os-browserify": "^0.3.0",
     "parcel": "^2.8.0",
     "process": "^0.11.10"
   },
@@ -34,6 +35,7 @@
     "dotenv": "^16.0.3",
     "notiflix": "^3.2.5",
     "parcel-transformer-hbs": "^1.0.3",
+    "path-browserify": "^1.0.1",
     "simplelightbox": "^2.10.4"
   }
 }
